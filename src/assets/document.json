@@ -1,0 +1,4 @@
+[{"name": "Jeevan","rollNumber": 16, "percentage": 80, "age": 20, "gender": "male", "birthdate":"18/03/1988", "qualification": "BE"},
+{"name": "Rajesh","rollNumber": 17, "percentage": 34, "age": 20, "gender": "male", "birthdate":"18/04/1988", "qualification": "BE"},
+{"name": "Girija","rollNumber": 18, "percentage": 50, "age": 20, "gender": "female", "birthdate":"18/03/1988", "qualification": "BE"},
+{"name": "Ramesh","rollNumber": 20, "percentage": 60, "age": 20, "gender": "male", "birthdate":"18/03/1988", "qualification": "BE"}]
